@@ -1,0 +1,43 @@
+
+div{
+    padding:8px 16px;
+}
+.login {
+    text-align: center;
+    font-size: 3em;
+    color: blueviolet;
+    background: transparent;
+    backdrop-filter: blur(20px);
+}
+form {
+    margin-left: 30%;
+    margin-right:30%;
+    background-color: transparent;
+}
+legend{
+    color:red;
+}
+.name {
+    padding-top: 8px 16px;
+}
+body{
+    background-image:url("https://images.pexels.com/photos/884788/pexels-photo-884788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+    background-repeat:no-repeat ;
+    background-size:100% ;
+}
+
+.btn {
+    width: 100%;
+    height: 45px;
+    background: black;
+    font-size: 1em;
+    color: white;
+    font-weight: 500;
+}
+.login-register {
+   font-size: 2em;
+   color: black;
+   text-align: center;
+   font-weight: 200;
+   margin: 25px;
+}
